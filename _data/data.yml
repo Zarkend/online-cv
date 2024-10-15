@@ -109,15 +109,15 @@ projects:
 
     assignments:
       - title: Super Party Games
-        link: "#https://twinstudios.es/Game/SPG"
+        link: "https://twinstudios.es/Game/SPG"
         tagline: "Frontend (Unity) - Implemented Meta features, Core features, Backend features (party system, authentication...) and a bunch of 3rd party services like Analytics, MMP..."
 
       - title: Hamster Mart Market Tycoon
-        link: "#https://twinstudios.es/Game/HamsterMart"
+        link: "https://twinstudios.es/Game/HamsterMart"
         tagline: "Implemented the whole game and integrated IAP Services, Ads Monetization, Analytics, MMP..."
 
       - title: Puzzle Monsters
-        link: "#https://twinstudios.es/Game/PuzzleMonsters"
+        link: "https://twinstudios.es/Game/PuzzleMonsters"
         tagline: "A little game I did in a week! Quite fun not gonna lie to develop as it was my first Puzzle Game"
 
 skills:
