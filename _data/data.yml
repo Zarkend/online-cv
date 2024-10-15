@@ -47,7 +47,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Videogames
           link:
 
         - item: Snowboarding
@@ -59,56 +59,36 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Unity Developer | Backend Systems Expert | Tooling and SDK Integration with 12 Years of Experience
+
+      I have spent over a decade working on 20+ Unity projects, honing my skills across both frontend and backend development. 
+      As the sole programmer on published Android games like https://twinstudios.es/Game/SPG (Mario Party-style, real-time multiplayer), 
+      https://twinstudios.es/Game/HamsterMart (Market Tycoon), and  https://twinstudios.es/Game/PuzzleMonsters (Puzzle game), 
+      I have been responsible for everything from gameplay mechanics to backend systems.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Higher Vocational Training in Web Application Development
+        university: IES JOAQUIN MIR
+        time: 2011 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Develop, implement and maintain web applications, regardless of the model used and using specific technologies, guaranteeing secure access to data and complying with the accessibility, usability and quality criteria required by the established standards.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Unity Developer
+        time: May 2024 - Present
+        company: Socialpoint, Barcelona
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          As an Unity Developer, my job is to work on various project developing features and improving the internal systems of socialpoint.
+
+            - Help to architect and develop features & functionality in Unity with C#
+            - Dive into the internals of engine-level systems to extend them as-needed
+            - Develop and integrate new technologies & SDKs
+            - Help to define and scope out tasks & systems
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
