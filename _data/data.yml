@@ -50,17 +50,15 @@ sidebar:
         - item: Videogames
           link:
 
-        - item: Snowboarding
+        - item: Food
           link:
 
-        - item: Cooking
+        - item: Programming
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Unity Developer | Backend Systems Expert | Tooling and SDK Integration with 12 Years of Experience
-
       I have spent over a decade working on 20+ Unity projects, honing my skills across both frontend and backend development. 
       As the sole programmer on published Android games like https://twinstudios.es/Game/SPG (Mario Party-style, real-time multiplayer), 
       https://twinstudios.es/Game/HamsterMart (Market Tycoon), and  https://twinstudios.es/Game/PuzzleMonsters (Puzzle game), 
@@ -89,28 +87,21 @@ experiences:
             - Develop and integrate new technologies & SDKs
             - Help to define and scope out tasks & systems
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Senior Server Engineer
+        time: Jan 2020 - Sep 2022
+        company: Scopely, Barcelona
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          From a cancel·led project to a Star Trek Fleet Command, I've been working as a server engineer implementing meta features and tooling (web-based) most of the time. Working closely with Designers, QA, Artists and all other involved teams in a highly-collaborative environment
+            - Design & Architect META features
+            - Design & Architect Web based tools to handle remote configuration
+
+      - role: .Net Software Engineer
+        time: Apr 2013 - Mar 2016
+        company: Redman TH SL, Barcelona
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          My first job as a Software Engineer... I was assigned a client (directly) so I was in charge of handling requirements, designing and implementing all the client needs for a CMS custom software
+            - Implement Windows Forms applications
+            - Design and Implement SQL Server database schemas
 
 certifications:
       title: Certifications
