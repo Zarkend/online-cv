@@ -98,7 +98,20 @@ experiences:
           From a cancel·led project to a Star Trek Fleet Command, I've been working as a server engineer implementing meta features and tooling (web-based) most of the time. Working closely with Designers, QA, Artists and all other involved teams in a highly-collaborative environment
             - Design & Architect META features
             - Design & Architect Web based tools to handle remote configuration
+            - Interviewing new hires
 
+      - role: .Net Operations Tech Lead
+        time: Mar 2016 - Dec 2019
+        company: Vueling Airlines, Barcelona
+        details: |
+          At Vueling I've been part of the operations team and my role was what It's known today as a Software Reliabilty Engineer (SRE). As a SRE my responsability was to keep all the production services alive and healthy. To do so I focused on Observability and critical bug solving while also implementing in-house sdks to help with the batching operations 
+            - Design & Implement Service APIs
+            - Design & Implement databases
+            - Firefighting (being on call) during some critical periods - In this firefighting moments, my responsability was to fix asap any critical bug that may appear, deploying as fast as possible to production
+            - Mentoring more junior members in the team doing tech lessons on specific topics or just talking with them to know their concerns
+            - Report directly to the Head of IT Operations 
+            - Interviewing new hires
+            
       - role: .Net Software Engineer
         time: Apr 2013 - Mar 2016
         company: Redman TH SL, Barcelona
