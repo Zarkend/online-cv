@@ -80,8 +80,20 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Senior Unity Developer
+        time: Jan 2025 - Present
+        company: Penguin Armada, Barcelona
+        details: |
+          As an Senior Unity Developer, I'm leading the development of all the meta features for the game Raiders Rise (https://store.steampowered.com/app/3376580/Raiders_Rise)
+
+            - Define client–server(Metaplay) contracts, networking strategies, and APIs.
+            - Implement client side part of features such as Battlepass, Lobby, Matchmaking, Friends...
+            - Translate product/design requirements into technical solutions.
+            - Ensure art assets, animations, and UI integrate smoothly into the engine.
+            - Identify blockers, propose mitigations, and adjust scope.
+
       - role: Unity Developer
-        time: May 2024 - Present
+        time: May 2024 - Dec 2024
         company: Socialpoint, Barcelona
         details: |
           As an Unity Developer, my job is to work on various project developing features and improving the internal systems of socialpoint.
