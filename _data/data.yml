@@ -138,17 +138,25 @@ projects:
       A part from my professional career, I've been working on side projects for over 12 years! That's some of my published ones. For all these projects, I've been the main programmer of a group of 3 developers (Tech artist and Artist)
 
     assignments:
+      - title: Torebia - an old school MMORPG
+        link: "https://www.twin-studios.com/Game/Torebia"
+        tagline: "A Server authoritative project, I'm in charge of all the engineering aspect of the game - Using mirror as a network solution. CI/CD into Steam (client) and Virtual servers (server)"
+
       - title: Super Party Games
-        link: "https://www.twinstudios.es/Game/SPG"
+        link: "https://www.twin-studios.com/Game/SPG"
         tagline: "Frontend (Unity) - Implemented Meta features, Core features, Backend features (party system, authentication...) and a bunch of 3rd party services like Analytics, MMP..."
 
       - title: Hamster Mart Market Tycoon
-        link: "https://www.twinstudios.es/Game/HamsterMart"
+        link: "https://www.twin-studios.com/Game/HamsterMart"
         tagline: "Implemented the whole game and integrated IAP Services, Ads Monetization, Analytics, MMP..."
 
       - title: Puzzle Monsters
-        link: "https://www.twinstudios.es/Game/PuzzleMonsters"
+        link: "https://www.twin-studios.com/Game/PuzzleMonsters"
         tagline: "A little game I did in a week! Quite fun not gonna lie to develop as it was my first Puzzle Game"
+      
+      - title: Twin Studios Home
+        link: "https://www.twin-studios.com"
+        tagline: I also do web development when required, this is a blazor project that I use as a portfolio
 
 skills:
     title: Skills &amp; Proficiency
